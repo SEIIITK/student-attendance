@@ -86,7 +86,7 @@ and open the template in the editor.
                             <label for="address">Address:</label>
                             <input type="text" class="form-control" name="address" placeholder="Address">
                         </div>
-                            <div><input type="submit" value="Submit" class="btn btn-danger">
+                            <div><input type="submit" value="Submit" name ="submbit" class="btn btn-danger">
                         </div>
                             
                     </form>
